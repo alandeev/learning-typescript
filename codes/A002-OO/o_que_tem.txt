@@ -1,0 +1,6 @@
+## Conceitos estudados
+
+- POO de diversas formas de interpretar e aprofundados em conceitos legais.
+
+- Singleton;
+- Inversão de Dependencia
