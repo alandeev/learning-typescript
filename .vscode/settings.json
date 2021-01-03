@@ -1,5 +1,5 @@
 {
   "code-runner.executorMap": {
-    "typescript": "clear && npx ts-node --files --transpile-only"
+    "typescript": "npx ts-node --files --transpile-only --ignore node_modules"
   }
 }

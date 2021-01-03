@@ -20,4 +20,5 @@ ___
 - [🟦] Types, Basic Syntax, OO concepts ' i have base of the csharp '
 - [🟦] Implementations, Interface/Types, Singleton and other types advanceds
 - [🟦] Generic types that the language defines as an 'overloads'
+- [🟨] Decoretors ['class', 'method', 'property']
 ___
